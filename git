@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit: Backend and Frontend Setup"
+git branch -M main
+git remote add origin https://github.com/your-username/goqii-assignment.git
+git push -u origin main

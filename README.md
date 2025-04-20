@@ -30,9 +30,9 @@ Make sure you have the following installed on your local machine:
 2. Navigate into the project directory:
    cd goqiitest
 3. Set up the backend:
-   Navigate to the backend folder (if you have a separate folder for backend code).
+   In project directory.
    Run the PHP server:
-     php -S localhost:8000 -t public
+     php -S localhost:8000
 4. Set up the frontend:
    Navigate to the frontend directory:
      cd frontend
